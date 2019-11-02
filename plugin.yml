@@ -1,0 +1,10 @@
+name: PlayerDeathChest
+main: LaithYT\Pro\Main
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+load: POSTWORLD
+author: LaithYT
+description: ON DEATH CREATE CHEST 
+website: https://github.com/laith98
+
+
